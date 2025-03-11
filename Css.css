@@ -1,0 +1,174 @@
+﻿/* Général */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #121212; /* Fond sombre */
+    color: #c6e600; /* Couleur principale lime */
+    line-height: 1.6;
+}
+
+
+/* Entête */
+header {
+    background-color: #1a1a1a; /* Fond sombre pour l'entête */
+    color: #c6e600; /* Texte lime */
+    padding: 20px;
+    text-align: center;
+}
+
+
+header .logo img {
+    max-width: 150px;
+}
+
+
+nav ul {
+    list-style-type: none;
+}
+
+
+nav ul li {
+    display: inline;
+    margin: 0 15px;
+}
+
+
+nav ul li a {
+    text-decoration: none;
+    color: #c6e600;
+    font-weight: bold;
+    font-size: 1.1rem;
+}
+
+
+nav ul li a:hover {
+    color: #99cc33; /* Teinte lime plus claire au survol */
+}
+
+
+/* Section Accueil */
+#accueil {
+    background-color: #1a1a1a;
+    text-align: center;
+    padding: 50px 20px;
+}
+
+
+#accueil h1 {
+    font-size: 2.5rem;
+    color: #c6e600;
+}
+
+
+#accueil p {
+    font-size: 1.2rem;
+    color: #a0a0a0;
+}
+
+
+/* Section Produits */
+#produits {
+    background-color: #121212;
+    color: #c6e600;
+    padding: 50px 20px;
+    text-align: center;
+}
+
+
+#produits h2 {
+    font-size: 2rem;
+    margin-bottom: 30px;
+}
+
+
+.produit {
+    background-color: #1a1a1a;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 8px;
+}
+
+
+.produit h3 {
+    font-size: 1.8rem;
+    color: #c6e600;
+}
+
+
+.produit p {
+    font-size: 1.1rem;
+    color: #a0a0a0;
+}
+
+
+/* Section Revendeurs */
+#revendeurs {
+    background-color: #1a1a1a;
+    color: #c6e600;
+    text-align: center;
+    padding: 50px 20px;
+}
+
+
+#revendeurs h2 {
+    font-size: 2rem;
+    margin-bottom: 30px;
+}
+
+
+.btn {
+    background-color: #c6e600;
+    color: #121212;
+    padding: 10px 20px;
+    font-size: 1.2rem;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+
+.btn:hover {
+    background-color: #99cc33;
+    color: #121212;
+}
+
+
+/* Section Contact */
+#contact {
+    background-color: #121212;
+    color: #c6e600;
+    padding: 50px 20px;
+    text-align: center;
+}
+
+
+#contact h2 {
+    font-size: 2rem;
+    margin-bottom: 30px;
+}
+
+
+#contact p {
+    font-size: 1.1rem;
+    color: #a0a0a0;
+}
+
+
+/* Footer */
+footer {
+    background-color: #1a1a1a;
+    color: #a0a0a0;
+    text-align: center;
+    padding: 20px;
+    font-size: 0.9rem;
+}
+
+
+footer p {
+    margin: 0;
+}
