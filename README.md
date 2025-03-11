@@ -1,7 +1,7 @@
 
 # 🌿 Nutrea - Votre allié naturel
 
-Bienvenue sur le site officiel de **Nutrea**, une marque de compléments alimentaires naturels conçus pour améliorer votre bien-être.
+Bienvenue sur le site de **Nutrea**, une marque de compléments alimentaires naturels conçus pour améliorer votre bien-être.
 
 ---
 
