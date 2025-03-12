@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nutrea - Votre allié naturel</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <!-- Entête -->
+    <header>
+        <div class="logo">
+            <img src="logo-nutrea.png" alt="Nutrea Logo">
+        </div>
+        <nav>
+            <ul>
+                <li><a href="#accueil">Accueil</a></li>
+                <li><a href="#produits">Nos Produits</a></li>
+                <li><a href="#revendeurs">Revendeurs</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <!-- Section d'Accueil -->
+    <section id="accueil">
+        <h1>Bienvenue sur Nutrea</h1>
+        <p>Découvrez nos produits naturels pour votre bien-être.</p>
+    </section>
+
+    <!-- Section des Produits -->
+    <section id="produits">
+        <h2>Nos Produits</h2>
+        <div class="produit">
+            <h3>Codonopsis</h3>
+            <p>Le ginseng et Codonopsis pour un bien-être optimal.</p>
+        </div>
+        <div class="produit">
+            <h3>Curcuma</h3>
+            <p>Le curcuma, un allié contre l'inflammation et pour la digestion.</p>
+        </div>
+        <!-- Ajouter d'autres produits ici -->
+    </section>
+
+    <!-- Section Revendeurs -->
+    <section id="revendeurs">
+        <h2>Espace Revendeurs</h2>
+        <p>Créez votre compte, suivez vos ventes et accédez à des supports marketing.</p>
+        <a href="inscription.html" class="btn">Créer un compte</a>
+    </section>
+
+    <!-- Section Contact -->
+    <section id="contact">
+        <h2>Contact</h2>
+        <p>Pour toute question, contactez-nous via notre formulaire ou nos coordonnées.</p>
+    </section>
+
+    <!-- Footer -->
+    <footer>
+        <p>&copy; 2025 Nutrea - Votre allié naturel. Tous droits réservés.</p>
+    </footer>
+
+</body>
+</html>
